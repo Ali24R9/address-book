@@ -1,0 +1,20 @@
+#show-contact {
+  display: none;
+}
+
+.contact {
+  cursor: pointer;
+  color: green;
+}
+
+.contact:hover {
+  text-decoration: underline;
+}
+
+@media(max-width 600px) {
+
+}
+
+.color {
+  color: blue;
+}
